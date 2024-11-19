@@ -81,8 +81,8 @@ You can support me on the Trakteer platform or other platforms! Your support wil
 
 <h2 id="lisensi">📝 License</h2>
 
-- Copyright © 2023 DANDY FAISHAL FAHMI
+- Copyright © 2023 DANDY
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-**<p align="center">Made with ❤️ by DANDY FAISHAL FAHMI</p>**
+**<p align="center">Made with ❤️ by DANDY</p>**
